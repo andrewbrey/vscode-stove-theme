@@ -2,6 +2,7 @@
   "name": "the-dark-stove",
   "displayName": "The Dark Stove",
   "description": "A dark theme for stove enthusiasts.",
+  "publisher": "andrewbrey",
   "icon": "./icon.png",
   "version": "0.0.1",
   "license": "MIT",
