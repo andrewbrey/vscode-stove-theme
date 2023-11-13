@@ -1,0 +1,44 @@
+{
+  "name": "the-dark-stove",
+  "displayName": "The Dark Stove",
+  "description": "A dark theme for stove enthusiasts.",
+  "icon": "./icon.png",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewbrey/vscode-stove-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "pricing": "Free",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "The Dark Stove",
+        "uiTheme": "vs-dark",
+        "path": "./themes/the-dark-stove-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "stove",
+    "lavender",
+    "black"
+  ],
+  "devDependencies": {
+    "@vscode/vsce": "2.22.0"
+  }
+}
