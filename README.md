@@ -13,8 +13,6 @@
 3. Write "The Dark Stove"
 4. Select it or press Enter to install
 
-Install using Git
-
 **Activating theme**
 
 Run Visual Studio Code. The Dark Stove Syntax Theme will be available from File -> Preferences -> Color Theme dropdown menu.
